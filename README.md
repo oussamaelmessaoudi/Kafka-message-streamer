@@ -11,10 +11,10 @@ A Java-based Kafka application for streaming messages using CLI tools and Kafka 
 ## Screenshots
 
 ### Producer CLI
-![Producer CLI](assets/Producer&CLI.png)
+![Producer CLI](assets/Producer%20CLI.png)
 
 ### Consumer CLI
-![Consumer CLI](screenshots/Consumer&CLI.png)
+![Consumer CLI](screenshots/Consumer%20CLI.png)
 
 ## How to Run
 
