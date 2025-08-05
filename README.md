@@ -14,7 +14,10 @@ A Java-based Kafka application for streaming messages using CLI tools and Kafka 
 ![Producer CLI](assets/Producer%20CLI.png)
 
 ### Consumer CLI
-![Consumer CLI](assets/Consumer_CLI.png.png)
+![Consumer CLI](assets/Consumer_CLI.png)
+
+### Creating the topic 'user-activity'
+![Consumer CLI](assets/Creating%20topic.png)
 
 ## How to Run
 
